@@ -48,8 +48,6 @@
 根据字面意思可知，这是你跟随的人，也就是你所关注和认同的人。<br><br>
 
 
-### Github相关工具
-**[1、优化Github的阅读体验]**(https://github.com/jawil/blog/issues/28)
 
 ### 如何利用Github进行学习？
 
