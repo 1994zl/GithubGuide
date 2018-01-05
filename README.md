@@ -26,11 +26,11 @@
 - git add .
 - git commit -m ""
 - git push
-在这个过程中有两个点需要稍微解释下：
-1、选择Initialize this repository with a README，是为了初始化一个README文件，看字面意思就知道；
-2、选择master branch，是为了给项目一个地址，这样才能通过url访问到你的网站。
-<br>
-<br>
+
+在这个过程中有两个点需要稍微解释下：<br>
+1、选择Initialize this repository with a README，是为了初始化一个README文件，看字面意思就知道；<br>
+2、选择master branch，是为了给项目一个地址，这样才能通过url访问到你的网站。<br><br>
+
 ### Github常用板块说明
 #### Overview ：
 翻译成中文就是“概述”的意思，但是实际上它相当于你的社交账号的首页，上面展示了你的一些项目和基本信息。你可以点击customize your pinned repositories 把你最为得意或者最想让其他人看到的项目展示出来。
