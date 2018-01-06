@@ -9,13 +9,13 @@
 # 基础
 
 ### :mag_right:熟悉Markdown语法
-由于在github上面的文本编辑是完全基于Markdown语法的，如果你想知道什么是Markdown语法，请百度或者Google；如果你想练习Markdown语法，那么请戳[这里](https://pandao.github.io/editor.md/index.html)，老老实实，按部就班敲一敲，很快就能上手，相信你会很快爱上它，因为它在很大程度上让我们节省了大量的时间和精力，使我们专注于内容，而不是各种花里花俏的排版。<br><br>
+由于在github上面的文本编辑是完全基于Markdown语法的，如果你想知道什么是Markdown语法，请百度或者Google；如果你想练习Markdown语法，那么请戳[这里](https://pandao.github.io/editor.md/index.html)，老老实实，按部就班敲一敲，很快就能上手，相信你也会很快爱上它，因为它在很大程度上让我们节省了大量的时间和精力，使我们专注于内容，而不是各种花里花俏的排版。<br><br>
 
 
 ### :low_brightness:创建应用场景
 都说掌握一个工具，掌握一门编程语言最好的方式就是不断地实践，然而大部分无人指点的新手根本无法准确的知道这个工具或者这门编程语言到底能干什么，从哪下手还真是个问题？？长期下来，自然而然对其就会失去兴趣。
 
-相信大部分刚接触web开发的新手（当然包括我啦），都十分渴望将自己开发的网站部署到网上，能随时随地让自己或让别人进行浏览。除了购买网络主机能够实现这一点，利用Github也可以。在这一方面，Github无疑是最好的选择，理由：简单、免费、能够充分展示自己。下面展示如何将自己的网站部署到Github：
+相信大部分刚接触web开发的新手（当然包括我啦），都十分渴望将自己开发的网站部署到网上，能随时随地让自己或让别人进行浏览。除了购买网络主机能够实现这一点，利用Github也可以。在这一方面，Github无疑是最好的选择，理由是：简单、免费、能够充分展示自己。下面展示如何将自己的网站部署到Github：
 
 :battery:[1、无比详细的新手教程](http://www.cnblogs.com/fengxiongZz/p/6477456.html)
 
@@ -68,9 +68,9 @@
 
 ### :dart:如何更好的玩耍Github？
 
-- 下载各种有用的插件
+- 下载各种有用的插件<br>
 萝卜青菜，各有所爱，这个还是大家自行搜索吧。之前我用的是**jawil**开发的[GayHub插件](https://github.com/jawil/GayHub)，用来优化Github的阅读体验。
-- 使用emoji
+- 使用emoji<br>
 这是Github支持的表情列表，能够让你的Github拥有一定骚动性，比如这些:cupid: :hankey: :dancer:，请查看[表情列表大全](https://github.com/caiyongji/emoji-list#people)
 
 ### 待续。。。
