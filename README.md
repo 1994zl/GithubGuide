@@ -1,4 +1,4 @@
-**老祖宗说得好**
+**老祖宗说得好**:innocent:
 > 兵欲善其事，必先利其器。想要学好编程，Github是一件利器！
 
 <br>记录显示，我是在2016年7月5日注册的Github，意思就是说截止到今天，时间已经过去549天([如何得出这日期？](https://cruxf.github.io/GithubGuide/time.html))，但是为啥我的Github还宛如一坨那个啥？！！<br>
